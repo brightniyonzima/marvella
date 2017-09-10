@@ -1,0 +1,41 @@
+.is-product
+  background: linear-gradient(120deg, $grey-slate, $primary, $primary)
+  +mobile
+    padding-top: 3rem
+    padding-bottom: 2rem
+
+  .columns
+    padding: 0
+
+  .column
+    background-color: $white
+    padding: 4rem 2rem
+    +mobile
+      padding: 2rem 1rem
+
+    &:first-of-type
+      border-radius: 1rem 0 0 1rem
+      +mobile
+        padding: 0
+        border-radius: 1rem 1rem  0 0
+        text-align: center
+
+
+    &:last-of-type
+      background-color: transparentize($white, .4)
+      border-radius: 0 1rem 1rem 0
+      +mobile
+        border-radius: 0 0 1rem 1rem
+
+.product-features
+ .columns
+   margin-top: 1rem
+   margin-bottom:  4.5rem
+
+
+.small-quote
+  font-size: .8rem
+  max-width: 480px
+  font-style: italic
+  margin: 2rem auto 1rem
+

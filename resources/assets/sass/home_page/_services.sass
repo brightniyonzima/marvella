@@ -1,0 +1,38 @@
+//services
+.service-article
+  margin-top: 3rem
+  margin-bottom: 6rem
+  &:last-of-type
+    margin-bottom: 3rem
+
+  .article-heading
+    margin: 1.4rem 0
+    text-align: center
+
+  .image
+    margin: 1.4rem auto
+
+  //flows carousel
+  .flows
+    position: relative
+  .flows .button
+    font-size: 1rem
+    position: absolute
+    background-color: transparent
+    color: transparentize($black, .9)
+    top: 47%
+    border: none
+    &:hover
+      color: transparentize($black, .5)
+    i.fa
+      font-size: 3rem
+    &.prev
+      left: -2rem
+      +mobile
+        left: 0
+    &.next
+      right: -2rem
+      +mobile
+        right: 0
+
+

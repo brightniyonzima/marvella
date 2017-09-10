@@ -1,0 +1,39 @@
+.quote
+  padding-bottom: 3rem
+  padding-top: 3rem
+  background: url("img/patterns.png") no-repeat center
+  +touch
+    padding-bottom: 1rem
+    padding-top: 1rem
+
+.quote blockquote
+  font-family: Georgia, serif
+  font-size: 18px
+  font-style: italic
+  margin: 0.25em auto
+  padding: 0 2rem
+  line-height: 1.45
+  position: relative
+  +mobile
+    padding: 0 0 0 2rem
+
+  &:before
+    display: block
+    content: "\201C"
+    font-size: 8rem
+    position: absolute
+    color: transparentize($white, .7)
+    left: -40px
+    top: -40px
+    +mobile
+      left: -5px
+      top: -20px
+      font-size: 4.5rem
+
+.quote blockquote p
+  color: transparentize($white, .5)
+  font-size: 14px
+  display: block
+  margin-top: 5px
+  &:before
+    content: "\2014 \2009"

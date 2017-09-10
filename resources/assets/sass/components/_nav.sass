@@ -1,0 +1,58 @@
+.nav.is-fixed
+  width: 100%
+  position: fixed
+  transition: all .3s
+  border-bottom: 1px solid $primary
+  .nav-item a,
+  a.nav-item
+    color: $primary
+    &:hover
+      color: lighten($grey-slate, .3)
+
+  +mobile
+    background-color: $primary
+    border-bottom: 1px solid $white
+    .brand-name
+      color: $white
+    .nav-item a,
+    a.nav-item
+      color: $primary
+      text-align: center !important
+      padding: 1rem 
+    .st0
+      fill: $white !important
+    
+
+
+.nav.is-transparent
+  height: 70px
+  background-color: transparentize($white, 0.95)
+  border-bottom: none
+  .nav-item a,
+  a.nav-item
+    color: $white
+    +mobile
+      color: $primary
+    &:hover
+      color: $yellow
+  .st0
+    fill: $white !important
+
+.nav .brand-logo
+  margin-right: 10px
+  
+.footer-menu
+  background-color: $grey-slate
+  color: $white-ter
+
+  .tag-line
+    color: $white
+
+  &:last-of-type
+    border-top: 1px solid transparentize($white, .8)
+
+.footer-menu .nav-item
+  color: transparentize($white, .6)
+  &:hover
+    color: $white
+

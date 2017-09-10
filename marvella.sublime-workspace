@@ -1,0 +1,2263 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"is",
+				"is-6"
+			],
+			[
+				"is-",
+				"is-6"
+			],
+			[
+				"h",
+				"h4\tTag"
+			],
+			[
+				"gu",
+				"guarantorcif"
+			],
+			[
+				"cli",
+				"ClientNumber"
+			],
+			[
+				"co",
+				"collateralref"
+			],
+			[
+				"coll",
+				"collateral"
+			],
+			[
+				"revi",
+				"reviewNewLoanDetails"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"ref",
+				"reference"
+			],
+			[
+				"clientn",
+				"clientnumber"
+			],
+			[
+				"Sta",
+				"Stakeholder"
+			],
+			[
+				"creditappli",
+				"creditapplicationreference"
+			],
+			[
+				"cred",
+				"CreditApplicationReference"
+			],
+			[
+				"in",
+				"InstrumentofClaim"
+			],
+			[
+				"pe",
+				"permission"
+			],
+			[
+				"magi",
+				"margin-left"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"dis",
+				"StakeholderPCI_District"
+			],
+			[
+				"Stakeholdergsc",
+				"StakeholderGSCAFB_ActivityDescription"
+			],
+			[
+				"occu",
+				"StakeholderEI_PrimaryOccupation"
+			],
+			[
+				"emplo",
+				"StakeholderEI_EmploymentType"
+			],
+			[
+				"II_p",
+				"StakeholderII_PassportNumber"
+			],
+			[
+				"II_nss",
+				"StakeholderII_NSSFNumber"
+			],
+			[
+				"natio",
+				"II_Nationality"
+			],
+			[
+				"Mar",
+				"MaritalStatus"
+			],
+			[
+				"dob",
+				"dob_year"
+			],
+			[
+				"stake",
+				"stakeholderObject"
+			],
+			[
+				"Lon",
+				"PCI_Longitude"
+			],
+			[
+				"lati",
+				"PCI_Latitude"
+			],
+			[
+				"websi",
+				"PCI_Website"
+			],
+			[
+				"email",
+				"PCI_EmailAddress"
+			],
+			[
+				"pci",
+				"PCI_Region"
+			],
+			[
+				"telephon",
+				"PCI_PrimaryTelephoneNumber"
+			],
+			[
+				"paris",
+				"PCI_Parish"
+			],
+			[
+				"county",
+				"PCI_CountyorTown"
+			],
+			[
+				"regio",
+				"PCI_Region"
+			],
+			[
+				"pcico",
+				"PCI_CountryCode"
+			],
+			[
+				"regi",
+				"RegistrationCertificateNumber"
+			],
+			[
+				"activi",
+				"StakeholderGSCAFB_ActivityDescription"
+			],
+			[
+				"incom",
+				"EI_IncomeBand"
+			],
+			[
+				"employ",
+				"EI_EmploymentType"
+			],
+			[
+				"prima",
+				"EI_PrimaryOccupation"
+			],
+			[
+				"dateof",
+				"GSCAFB_DateofBirth"
+			],
+			[
+				"gender",
+				"GSCAFB_Gender"
+			],
+			[
+				"foren",
+				"GSCAFB_Forename2"
+			],
+			[
+				"surn",
+				"GSCAFB_Surname"
+			],
+			[
+				"percen",
+				"ShareholderPercentage"
+			],
+			[
+				"clien",
+				"StakeholderClientNumber"
+			],
+			[
+				"stakehol",
+				"stakeholderType"
+			],
+			[
+				"checked",
+				"checkedguarantors"
+			],
+			[
+				"guar",
+				"guarantor"
+			],
+			[
+				"longitu",
+				"Guarantor_PCI_Longitude"
+			],
+			[
+				"emai",
+				"Guarantor_PCI_EmailAddress"
+			],
+			[
+				"post",
+				"Guarantor_PCI_PostOfficeTown"
+			],
+			[
+				"pon",
+				"Guarantor_PCI_POBoxNumber"
+			],
+			[
+				"stree",
+				"Guarantor_PCI_LCorStreetName"
+			],
+			[
+				"plot",
+				"Guarantor_PCI_PlotorStreetNumber"
+			],
+			[
+				"unitn",
+				"Guarantor_PCI_UnitName"
+			],
+			[
+				"unit",
+				"Guarantor_PCI_UnitNumber"
+			],
+			[
+				"other",
+				"Guarantor_PCI_OtherTelephoneNumber"
+			],
+			[
+				"tele",
+				"Guarantor_PCI_PrimaryTelephoneNumber"
+			],
+			[
+				"villa",
+				"Guarantor_PCI_Village"
+			],
+			[
+				"parish",
+				"Guarantor_PCI_Parish"
+			],
+			[
+				"subu",
+				"Guarantor_PCI_Suburb"
+			],
+			[
+				"disrt",
+				"Guarantor_PCI_District"
+			],
+			[
+				"region",
+				"Guarantor_PCI_Region"
+			],
+			[
+				"coun",
+				"Guarantor_PCI_CountryCode"
+			],
+			[
+				"ins",
+				"GSCAFB_IndustrySectorCode"
+			],
+			[
+				"businessty",
+				"GSCAFB_BusinessTypeCode"
+			],
+			[
+				"act",
+				"Guarantor_GSCAFB_ActivityDescription"
+			],
+			[
+				"trad",
+				"Guarantor_GSCAFB_TradingName"
+			],
+			[
+				"busin",
+				"Guarantor_GSCAFB_BusinessName"
+			],
+			[
+				"empl",
+				"Guarantor_EI_EmploymentType"
+			],
+			[
+				"empo",
+				"Guarantor_EI_EmployerName"
+			],
+			[
+				"prim",
+				"Guarantor_EI_PrimaryOccupation"
+			],
+			[
+				"fcs",
+				"Guarantor_II_FCSNumber"
+			],
+			[
+				"pass",
+				"Guarantor_II_PassportNumber"
+			],
+			[
+				"nssf",
+				"Guarantor_II_NSSFNumber"
+			],
+			[
+				"country",
+				"Guarantor_II_CountryID"
+			],
+			[
+				"nation",
+				"Guarantor_II_Nationality"
+			],
+			[
+				"marita",
+				"Guarantor_GSCAFB_MaritalStatus"
+			],
+			[
+				"do",
+				"dobday"
+			],
+			[
+				"for",
+				"Guarantor_GSCAFB_Forename2"
+			],
+			[
+				"guarat",
+				"GuarantorType"
+			],
+			[
+				"save",
+				"save_and_hide_collateral"
+			],
+			[
+				"repl",
+				"str_replace"
+			],
+			[
+				"che",
+				"checkedcollateral"
+			],
+			[
+				"profiles_c",
+				"profiles_cap"
+			],
+			[
+				"sr",
+				"script\tTag"
+			],
+			[
+				"ch",
+				"chbx"
+			],
+			[
+				"req",
+				"Request"
+			],
+			[
+				"C",
+				"CollateralToUpdate"
+			],
+			[
+				"expi",
+				"expirymonth"
+			],
+			[
+				"expiry",
+				"expiryyear"
+			],
+			[
+				"val",
+				"valuationday"
+			],
+			[
+				"valuat",
+				"valuationmonth"
+			],
+			[
+				"col",
+				"collateralObject"
+			],
+			[
+				"getE",
+				"getElementsByName"
+			],
+			[
+				"hide",
+				"hide_collateral"
+			],
+			[
+				"dat",
+				"GSCAFB_DateRegistered"
+			],
+			[
+				"dri",
+				"Guarantor_II_DriversLicenceIDNumber"
+			],
+			[
+				"new",
+				"newguarantorform"
+			],
+			[
+				"guara",
+				"guarantorObject"
+			],
+			[
+				"Req",
+				"RequestObject"
+			],
+			[
+				"valid",
+				"valid_fcs"
+			],
+			[
+				"va",
+				"valid_clientnumber"
+			],
+			[
+				"Guarant",
+				"GuarantorCountryID"
+			],
+			[
+				"Guara",
+				"GuarantorNSSF"
+			],
+			[
+				"GUar",
+				"GuarantorPassport"
+			],
+			[
+				"I",
+				"IDArray"
+			],
+			[
+				"exp",
+				"expiryday"
+			],
+			[
+				"Bor",
+				"BorrowerAccountReference"
+			],
+			[
+				"Borr",
+				"BorrowerAccountReference"
+			],
+			[
+				"value",
+				"value"
+			],
+			[
+				"St",
+				"StoreNewLoanAppilcation"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"lo",
+				"log\tlog"
+			],
+			[
+				"form",
+				"formData"
+			],
+			[
+				"pos",
+				"post"
+			],
+			[
+				"all",
+				"allNewGuarantorArray"
+			],
+			[
+				"clie",
+				"clientNumber"
+			],
+			[
+				"cl",
+				"clt"
+			],
+			[
+				"lona",
+				"loanaccounts"
+			],
+			[
+				"loan",
+				"loanaccounts"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"emp",
+				"employmentType"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/Http/Controllers/HomesController.php",
+			"settings":
+			{
+				"buffer_size": 4337,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/home.blade.php",
+			"settings":
+			{
+				"buffer_size": 312,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/assets/sass/components/_nav.sass",
+			"settings":
+			{
+				"buffer_size": 1025,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/assets/sass/_variables.sass",
+			"settings":
+			{
+				"buffer_size": 593,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/assets/sass/app.sass",
+			"settings":
+			{
+				"buffer_size": 181,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "node_modules/bulma/sass/utilities/derived-variables.sass",
+			"settings":
+			{
+				"buffer_size": 2198,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "node_modules/bulma/sass/utilities/variables.sass",
+			"settings":
+			{
+				"buffer_size": 4499,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/home_page/what_we_do.blade.php",
+			"settings":
+			{
+				"buffer_size": 1778,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/home_page/why_were_marvella.blade.php",
+			"settings":
+			{
+				"buffer_size": 4411,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/home_page/products.blade.php",
+			"settings":
+			{
+				"buffer_size": 4575,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/menus/footer.blade.php",
+			"settings":
+			{
+				"buffer_size": 2310,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1208,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/contact_us.blade.php",
+			"settings":
+			{
+				"buffer_size": 3334,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/assets/sass/home_page/_banner.sass",
+			"settings":
+			{
+				"buffer_size": 499,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/home_page/banner.blade.php",
+			"settings":
+			{
+				"buffer_size": 854,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/property.blade.php",
+			"settings":
+			{
+				"buffer_size": 5103,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/layouts/app.blade.php",
+			"settings":
+			{
+				"buffer_size": 1336,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/menus/header.blade.php",
+			"settings":
+			{
+				"buffer_size": 1789,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/about_us.blade.php",
+			"settings":
+			{
+				"buffer_size": 6607,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routes/web.php",
+			"settings":
+			{
+				"buffer_size": 1144,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 101.0,
+		"last_filter": "sideb",
+		"selected_items":
+		[
+			[
+				"sideb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sid",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"br",
+				"Preferences: Browse Packages"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"advan",
+				"Package Control: Advanced Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"Install Package"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/Marvella",
+		"/C/xampp/htdocs/Marvella/resources",
+		"/C/xampp/htdocs/Marvella/resources/assets",
+		"/C/xampp/htdocs/Marvella/resources/assets/sass",
+		"/C/xampp/htdocs/Marvella/resources/assets/sass/components",
+		"/C/xampp/htdocs/Marvella/resources/assets/sass/home_page",
+		"/C/xampp/htdocs/Marvella/resources/views",
+		"/C/xampp/htdocs/Marvella/resources/views/home_page"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/Marvella/resources/views/home_page/property.blade.php",
+		"/C/xampp/htdocs/Marvella/app/Notifications/TrailQuotationNotification.php",
+		"/C/xampp/htdocs/Marvella/app/Notifications/Trailnotification.php",
+		"/C/xampp/htdocs/Marvella/routes/web.php",
+		"/C/xampp/htdocs/Marvella/.env",
+		"/C/xampp/htdocs/Marvella/config/app.php",
+		"/C/xampp/htdocs/Marvella/resources/assets/sass/home_page/_banner.sass",
+		"/C/xampp/htdocs/cav2/resources/views/cap/final_instruction.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/cap/review_loan_application_two.blade.php",
+		"/C/xampp/htdocs/cav2/app/Lib/CAPManager.php",
+		"/C/xampp/htdocs/cav2/database/seeds/PermissionsSeeder.php",
+		"/C/xampp/htdocs/cav2/app/Http/Controllers/CreditApplicationsController.php",
+		"/C/xampp/htdocs/cav2/resources/views/cap/add_stakeholder.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/cap/add_guarantor.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/cap/add_collateral.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/cap/loanform_two.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/layouts/scripts.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/layouts/app.blade.php",
+		"/C/xampp/htdocs/cav2/routes/web.php",
+		"/C/xampp/htdocs/cav2/app/NewGuarantors_buffer.php",
+		"/C/xampp/htdocs/cav2/app/NewStakeholders_buffer.php",
+		"/C/xampp/htdocs/cav2/resources/views/cap/review_loan_application.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/profiles/show.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/profiles/index.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/ccg/add_guarantor_modal.blade.php",
+		"/C/xampp/htdocs/cav2/app/Lib/CBAManager.php",
+		"/C/xampp/htdocs/cav2/app/Http/Controllers/ConfigurationController.php",
+		"/C/xampp/htdocs/cav2/resources/views/configuration/createrole.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/configuration/form.blade.php",
+		"/C/xampp/htdocs/cav2/app/Http/Controllers/TestController.php",
+		"/C/xampp/htdocs/cav2/database/seeds/UgandaRegionsSeeder.php",
+		"/C/xampp/htdocs/cav2/resources/views/users/roles.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/users/form.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/admin/second_row.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/admin/first_row.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/fcs/index.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/configuration/ignoreaccount.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/configuration/ignorecif.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/auth/login.blade.php",
+		"/C/xampp/htdocs/cav2/app/Http/Controllers/LoanSecurityController.php",
+		"/C/xampp/htdocs/cav2/resources/views/bs/create.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/bs/form.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/cap/create_business.blade.php",
+		"/C/xampp/htdocs/cav2/database/migrations/2017_08_18_115925_create_newstakeholders_buffer_table.php",
+		"/C/xampp/htdocs/cav2/database/migrations/2017_03_29_192402_create_profiles_bs_table.php",
+		"/C/xampp/htdocs/cav2/resources/views/bs/add_stakeholder_modal.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/cmc/add_collateral_modal.blade.php",
+		"/C/xampp/htdocs/cav2/app/Http/Controllers/CollateralMaterialController.php",
+		"/C/xampp/htdocs/cav2/app/NewCollateral_buffer.php",
+		"/C/xampp/htdocs/cav2/database/migrations/2017_03_29_193109_create_profiles_ccg_table.php",
+		"/C/xampp/htdocs/cav2/database/migrations/2017_08_16_104513_create_newguarantors_buffer_table.php",
+		"/C/xampp/htdocs/cav2/app/Http/Controllers/CollateralGuarantorController.php",
+		"/C/xampp/htdocs/cav2/database/migrations/2017_08_14_120316_create_newcollateral_buffer_table.php",
+		"/C/xampp/htdocs/cav2/resources/views/cap/loanform.blade.php",
+		"/C/xampp/htdocs/cav2/app/Http/Requests/StoreCAP.php",
+		"/C/xampp/htdocs/cav2/database/migrations/2017_08_15_053802_add_complete_column_to_newcollateral_buffer_table.php",
+		"/C/xampp/htdocs/cav2/database/migrations/2017_03_29_193621_create_profiles_cmc_table.php",
+		"/C/xampp/htdocs/cav2/app/Profiles_cmc.php",
+		"/C/xampp/htdocs/cav2/resources/assets/js/components/search.vue",
+		"/C/xampp/htdocs/cav2/resources/views/cap/form.blade.php",
+		"/C/xampp/htdocs/cav2/resources/assets/sass/app.scss",
+		"/C/xampp/htdocs/cav2/resources/views/profiles/create.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/profiles/edit.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/cap/create.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/profiles/create_business.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/profiles/persons.blade.php",
+		"/C/xampp/htdocs/cav2/resources/assets/js/app.js",
+		"/C/xampp/htdocs/cav2/resources/views/profiles/businesses.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/ccg/form.blade.php",
+		"/C/xampp/htdocs/cav2/app/Lib/BCsubmissionFile.php",
+		"/C/xampp/htdocs/cav2/resources/views/ccg/create.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/cap/form_business.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/configuration/duplicate_profiles.blade.php",
+		"/C/xampp/htdocs/cav2/app/Lib/AppendixManager.php",
+		"/C/xampp/htdocs/cav2/resources/views/dashboard/first_row.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/dashboard.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/dashboard/third_row.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/dashboard/second_row.blade.php",
+		"/C/xampp/htdocs/cav2/database/seeds/GuarantortypeSeeder.php",
+		"/C/xampp/htdocs/cav2/resources/views/configuration/regionsform.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/profiles/credit_applications.blade.php",
+		"/C/xampp/htdocs/cav2/app/Http/Controllers/UbosController.php",
+		"/C/xampp/htdocs/cav2/package.json",
+		"/C/xampp/htdocs/cav2/resources/views/cap/duplicate_warning.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/cap/loan_review_form.blade.php",
+		"/C/xampp/htdocs/cav2/public/js/code.jquery.js",
+		"/C/xampp/htdocs/cav2/resources/views/layouts/menu.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/layouts/header.blade.php",
+		"/C/xampp/htdocs/CALaravelInterfaces/resources/views/dashboard/first_row.blade.php",
+		"/C/xampp/htdocs/cav2/app/Http/Controllers/SearchController.php",
+		"/C/xampp/htdocs/cav2/resources/assets/js/search.js",
+		"/C/xampp/htdocs/cav2/public/js/jquerymigrate.js",
+		"/C/xampp/htdocs/cav2/app/Lib/ProfilesManager.php",
+		"/C/xampp/htdocs/cav2/app/Profiles_customers.php",
+		"/C/xampp/htdocs/cav2/resources/views/profiles/has_collateral.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/configuration/index.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/institution/form.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/institution/create.blade.php",
+		"/C/xampp/htdocs/cav2/database/migrations/2017_07_28_100220_create_countryregions_table.php",
+		"/C/xampp/htdocs/cav2/resources/assets/js/bootstrap.js",
+		"/C/xampp/htdocs/cav2/resources/assets/sass/search.scss",
+		"/C/xampp/htdocs/cav2/app/Http/Controllers/ProfilesController.php",
+		"/C/xampp/htdocs/cav2/database/seeds/BusinessTypecodesSeeder.php",
+		"/C/xampp/htdocs/cav2/app/Http/Requests/StoreProfile.php",
+		"/C/xampp/htdocs/cav2/node_modules/intl-tel-input/build/css/intlTelInput.css",
+		"/C/xampp/htdocs/cav2/public/js/app.js",
+		"/C/xampp/htdocs/cav2/node_modules/intl-tel-input/build/js/utils.js",
+		"/C/xampp/htdocs/cav2/config/app.php",
+		"/C/xampp/htdocs/cav2/app/Providers/FormMacroDayServiceProvider.php",
+		"/C/xampp/htdocs/cav2/app/Providers/FormMacroYearServiceProvider.php",
+		"/C/xampp/htdocs/cav2/app/Providers/FormMacroServiceProvider.php",
+		"/C/xampp/htdocs/cav2/app/Providers/AppServiceProvider.php",
+		"/C/xampp/htdocs/cav2/database/migrations/2017_04_21_061344_appendix_ugandaregions_table.php",
+		"/C/xampp/htdocs/cav2/app/Lib/delete_me_too.php",
+		"/C/xampp/htdocs/cav2/resources/views/cap/edit.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/cmc/create.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/ccg/edit.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/bc/index.blade.php",
+		"/C/xampp/htdocs/cav2/app/Lib/delete_me.php",
+		"/C/xampp/htdocs/cav2/resources/views/bs/index.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/cap/index.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/pis/index.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/ccg/profilelist.blade.php",
+		"/C/xampp/htdocs/cav2/resources/views/ccg/index.blade.php",
+		"/C/xampp/htdocs/cav2/app/Http/Requests/StoreBS.php",
+		"/C/xampp/htdocs/cav2/app/Http/Requests/StoreCCG.php",
+		"/C/xampp/htdocs/cav2/app/Http/Controllers/BorrowerStakeholderController.php",
+		"/C/xampp/htdocs/cav2/resources/views/bs/choose_profile.blade.php"
+	],
+	"find":
+	{
+		"height": 58.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$primary",
+			"collateral",
+			"']",
+			"$RequestObject['",
+			"']",
+			"$RequestObject['",
+			"=>",
+			"$Collateral->",
+			" = $",
+			";",
+			"clientnumber",
+			"dateto",
+			"CreditApplicationController",
+			"checkedgua",
+			"Stakeholder_",
+			"$checked_bs",
+			"guarantor",
+			"Guarantor",
+			"NewGuarantors",
+			"->_",
+			"'];",
+			"$RequestObjectArray['Stakeholder",
+			"Guarantor",
+			"checkedchecked",
+			"guarantors",
+			"checkedst",
+			"usethiss",
+			"usethis",
+			"usesta",
+			"revie",
+			"button",
+			"compl",
+			"onclick",
+			"getloan",
+			"<sty",
+			"jscro",
+			"final",
+			"review",
+			"heymehn",
+			"appendix",
+			"active",
+			"last",
+			"instr",
+			"paddin",
+			"margin",
+			"collateralObject[\"CollateralReferenceNr\"]",
+			"existing",
+			"preve",
+			"hide",
+			"GuarantorClassification",
+			"$individual_classification",
+			"alert(",
+			"guarantor",
+			"Guarantor",
+			"guarantor",
+			".hide",
+			"guarantor",
+			"Guarantor",
+			"guarantor",
+			"Guarantor",
+			"guarantor",
+			"Guarantor",
+			"guarantor",
+			"Guarantor_",
+			"StakeholderClientNumber;",
+			" =",
+			"var ",
+			"\t        ",
+			";",
+			"stakeholderObject[",
+			"updatest",
+			"chbx",
+			"Stakeholder_",
+			"usest",
+			"GSCAFB_BusinessTypeCode",
+			"Name('registration",
+			"joining",
+			"registration",
+			"Guarantor_",
+			"Stakeholder_",
+			"StakeholderStakeholder_",
+			"Stakeholder_",
+			"Guarantor_",
+			"StakeholderClientNumber",
+			"Guarantor",
+			"GuarantorType",
+			"Guarantee",
+			"Guarantor",
+			"guarantor",
+			"guarantorObject",
+			"Guarantor",
+			"guarantor",
+			"Guarantor",
+			"guarantor",
+			"Guarantor",
+			"guarantor",
+			"Guarantor",
+			"guarantor",
+			"Guarantor",
+			"guarantor",
+			"Guarantor",
+			"guarantor",
+			"Guarantor",
+			"guarantor",
+			"Guarantor",
+			"guarantor",
+			"Guarantor",
+			"guarantor",
+			"Guarantor",
+			"guarantor",
+			"Guarantor",
+			"guarantor",
+			"Guarantor",
+			"guarantor",
+			"Guarantor",
+			"guarantor",
+			"Guarantor",
+			"guarantor",
+			"Guarantor",
+			"guarantor",
+			"Guarantor",
+			"guarantor",
+			"Guarantor",
+			"guarantor",
+			"Guarantor",
+			"guarantor",
+			"Guarantor",
+			"guarantor"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Cameroon",
+			"$admin_classes_path"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 15,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/Http/Controllers/HomesController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4337,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1800,
+								1800
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3276.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/views/home.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 312,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								43,
+								43
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/assets/sass/components/_nav.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1025,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								473,
+								473
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 546.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "resources/assets/sass/_variables.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 593,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								345,
+								345
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby Haml.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 84.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "resources/assets/sass/app.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 181,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16,
+								16
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby Haml.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "node_modules/bulma/sass/utilities/derived-variables.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2198,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17,
+								17
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby Haml.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "node_modules/bulma/sass/utilities/variables.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4499,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								412,
+								412
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby Haml.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 462.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "resources/views/home_page/what_we_do.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1778,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1410,
+								1154
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 546.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "resources/views/home_page/why_were_marvella.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4411,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3414,
+								3414
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1920.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "resources/views/home_page/products.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4575,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								497,
+								497
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "resources/views/menus/footer.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2310,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1811,
+								1811
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 731.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1208,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								901,
+								901
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "resources/views/contact_us.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3334,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1168,
+								1168
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 504.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "resources/assets/sass/home_page/_banner.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 499,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								104,
+								77
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby Haml.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "resources/views/home_page/banner.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 854,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								559,
+								559
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 84.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "resources/views/property.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5103,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1751,
+								1751
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2730.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "resources/views/layouts/app.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1336,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								565,
+								565
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "resources/views/menus/header.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1789,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								521,
+								521
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "resources/views/about_us.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6607,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1992,
+								1792
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 210.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1143,
+								1143
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 630.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 56.0
+	},
+	"input":
+	{
+		"height": 56.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 40.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "marvella.sublime-project",
+	"replace":
+	{
+		"height": 106.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"property.bl",
+				"resources\\views\\property.blade.php"
+			],
+			[
+				"web.ph",
+				"routes\\web.php"
+			],
+			[
+				"banne",
+				"resources\\views\\home_page\\banner.blade.php"
+			],
+			[
+				"app.s",
+				"resources\\assets\\sass\\app.sass"
+			],
+			[
+				"p",
+				"package.json"
+			],
+			[
+				"",
+				"C:\\xampp\\htdocs\\Marvella\\resources\\views\\menus\\footer.blade.php"
+			],
+			[
+				"banner",
+				"resources\\views\\home_page\\banner.blade.php"
+			],
+			[
+				"home",
+				"resources\\views\\home.blade.php"
+			],
+			[
+				"contact",
+				"resources\\views\\contact_us.blade.php"
+			],
+			[
+				"homecont",
+				"app\\Http\\Controllers\\HomesController.php"
+			],
+			[
+				"web",
+				"routes\\web.php"
+			],
+			[
+				"abu",
+				"resources\\views\\about_us.blade.php"
+			],
+			[
+				"produ",
+				"resources\\views\\home_page\\products.blade.php"
+			],
+			[
+				"app.p",
+				"config\\app.php"
+			],
+			[
+				"derived",
+				"node_modules\\bulma\\sass\\utilities\\derived-variables.sass"
+			],
+			[
+				"variables",
+				"node_modules\\bulma\\sass\\utilities\\variables.sass"
+			],
+			[
+				"footr",
+				"resources\\views\\menus\\footer.blade.php"
+			],
+			[
+				"why",
+				"resources\\views\\home_page\\why_were_different.blade.php"
+			],
+			[
+				"what",
+				"resources\\views\\home_page\\what_we_do.blade.php"
+			],
+			[
+				"permis",
+				"database\\seeds\\PermissionsSeeder.php"
+			],
+			[
+				"revi",
+				"resources\\views\\cap\\review_loan_application_two.blade.php"
+			],
+			[
+				"review",
+				"resources\\views\\cap\\review_loan_application_two.blade.php"
+			],
+			[
+				"newgu",
+				"app\\NewGuarantors_buffer.php"
+			],
+			[
+				"capmaa",
+				"app\\Lib\\CAPManager.php"
+			],
+			[
+				"final_in",
+				"resources\\views\\cap\\final_instruction.blade.php"
+			],
+			[
+				"web.",
+				"routes\\web.php"
+			],
+			[
+				"profiles/sh",
+				"resources\\views\\profiles\\show.blade.php"
+			],
+			[
+				"app",
+				"resources\\views\\layouts\\app.blade.php"
+			],
+			[
+				"profiles/sho",
+				"resources\\views\\profiles\\show.blade.php"
+			],
+			[
+				"profiles/i",
+				"resources\\views\\profiles\\index.blade.php"
+			],
+			[
+				"web.php",
+				"routes\\web.php"
+			],
+			[
+				"permison",
+				"database\\seeds\\PermissionsSeeder.php"
+			],
+			[
+				"regionsse",
+				"database\\seeds\\UgandaRegionsSeeder.php"
+			],
+			[
+				"testcon",
+				"app\\Http\\Controllers\\TestController.php"
+			],
+			[
+				"configuration/form",
+				"resources\\views\\configuration\\form.blade.php"
+			],
+			[
+				"scri",
+				"resources\\views\\layouts\\scripts.blade.php"
+			],
+			[
+				"roles",
+				"resources\\views\\users\\roles.blade.php"
+			],
+			[
+				"user/for",
+				"resources\\views\\users\\form.blade.php"
+			],
+			[
+				"seco",
+				"resources\\views\\admin\\second_row.blade.php"
+			],
+			[
+				"first",
+				"resources\\views\\admin\\first_row.blade.php"
+			],
+			[
+				"ignoreci",
+				"resources\\views\\configuration\\ignorecif.blade.php"
+			],
+			[
+				"fcs/",
+				"resources\\views\\fcs\\index.blade.php"
+			],
+			[
+				"configu",
+				"app\\Http\\Controllers\\ConfigurationController.php"
+			],
+			[
+				"ignore",
+				"resources\\views\\configuration\\ignoreaccount.blade.php"
+			],
+			[
+				"scrip",
+				"resources\\views\\layouts\\scripts.blade.php"
+			],
+			[
+				"bs/ce",
+				"resources\\views\\bs\\create.blade.php"
+			],
+			[
+				"bs/for",
+				"resources\\views\\bs\\form.blade.php"
+			],
+			[
+				"loanfo",
+				"resources\\views\\cap\\loanform_two.blade.php"
+			],
+			[
+				"business",
+				"resources\\views\\cap\\create_business.blade.php"
+			],
+			[
+				"loanform",
+				"resources\\views\\cap\\loanform_two.blade.php"
+			],
+			[
+				"app.bl",
+				"resources\\views\\layouts\\app.blade.php"
+			],
+			[
+				"add_coll",
+				"resources\\views\\cap\\add_collateral.blade.php"
+			],
+			[
+				"create_profi",
+				"database\\migrations\\2017_03_29_192402_create_profiles_bs_table.php"
+			],
+			[
+				"create_newst",
+				"database\\migrations\\2017_08_18_115925_create_newstakeholders_buffer_table.php"
+			],
+			[
+				"add_guara",
+				"resources\\views\\cap\\add_guarantor.blade.php"
+			],
+			[
+				"add_sta",
+				"resources\\views\\bs\\add_stakeholder_modal.blade.php"
+			],
+			[
+				"add_gua",
+				"resources\\views\\cap\\add_guarantor.blade.php"
+			],
+			[
+				"stakeholde",
+				"resources\\views\\bs\\add_stakeholder_modal.blade.php"
+			],
+			[
+				"scr",
+				"resources\\views\\layouts\\scripts.blade.php"
+			],
+			[
+				"add_gu",
+				"resources\\views\\ccg\\add_guarantor_modal.blade.php"
+			],
+			[
+				"loanfor",
+				"resources\\views\\cap\\loanform_two.blade.php"
+			],
+			[
+				"collateralcon",
+				"app\\Http\\Controllers\\CollateralMaterialController.php"
+			],
+			[
+				"guarantorsbu",
+				"database\\migrations\\2017_08_16_104513_create_newguarantors_buffer_table.php"
+			],
+			[
+				"create_profiles",
+				"database\\migrations\\2017_03_29_193109_create_profiles_ccg_table.php"
+			],
+			[
+				"ccgcon",
+				"app\\Http\\Controllers\\CollateralGuarantorController.php"
+			],
+			[
+				"cap/add",
+				"resources\\views\\cap\\add_collateral.blade.php"
+			],
+			[
+				"capman",
+				"app\\Lib\\CAPManager.php"
+			],
+			[
+				"cap",
+				"app\\Lib\\CAPManager.php"
+			],
+			[
+				"credit",
+				"app\\Http\\Controllers\\CreditApplicationsController.php"
+			],
+			[
+				"loanfr",
+				"resources\\views\\cap\\loanform.blade.php"
+			],
+			[
+				"loanfom",
+				"resources\\views\\cap\\loanform.blade.php"
+			],
+			[
+				"credita",
+				"app\\Http\\Controllers\\CreditApplicationsController.php"
+			],
+			[
+				"cmc",
+				"app\\Http\\Controllers\\CollateralMaterialController.php"
+			],
+			[
+				"add_comp",
+				"database\\migrations\\2017_08_15_053802_add_complete_column_to_newcollateral_buffer_table.php"
+			],
+			[
+				"cap/ad",
+				"resources\\views\\cap\\add_collateral.blade.php"
+			],
+			[
+				"profile_cm",
+				"app\\Profiles_cmc.php"
+			],
+			[
+				"newco",
+				"app\\NewCollateral_buffer.php"
+			],
+			[
+				"create_profiles_cmc",
+				"database\\migrations\\2017_03_29_193621_create_profiles_cmc_table.php"
+			],
+			[
+				"create_profiles_cc",
+				"database\\migrations\\2017_03_29_193109_create_profiles_ccg_table.php"
+			],
+			[
+				"newcoll",
+				"database\\migrations\\2017_08_14_120316_create_newcollateral_buffer_table.php"
+			],
+			[
+				"add_co",
+				"resources\\views\\cap\\add_collateral.blade.php"
+			],
+			[
+				"loanse",
+				"app\\Http\\Controllers\\LoanSecurityController.php"
+			],
+			[
+				"scripts",
+				"resources\\views\\layouts\\scripts.blade.php"
+			],
+			[
+				"form",
+				"resources\\views\\cap\\form.blade.php"
+			],
+			[
+				"app.sc",
+				"resources\\assets\\sass\\app.scss"
+			],
+			[
+				"login",
+				"resources\\views\\auth\\login.blade.php"
+			],
+			[
+				"w",
+				"routes\\web.php"
+			],
+			[
+				"credi",
+				"app\\Http\\Controllers\\CreditApplicationsController.php"
+			],
+			[
+				"profiles/ed",
+				"resources\\views\\profiles\\edit.blade.php"
+			],
+			[
+				"profiles/cr",
+				"resources\\views\\profiles\\create.blade.php"
+			],
+			[
+				"cap/cre",
+				"resources\\views\\cap\\create.blade.php"
+			],
+			[
+				"create",
+				"resources\\views\\profiles\\create_business.blade.php"
+			],
+			[
+				"app.js",
+				"resources\\assets\\js\\app.js"
+			],
+			[
+				"ccg/from",
+				"resources\\views\\ccg\\form.blade.php"
+			],
+			[
+				"submisio",
+				"app\\Lib\\BCsubmissionFile.php"
+			],
+			[
+				"guara",
+				"app\\Http\\Controllers\\CollateralGuarantorController.php"
+			],
+			[
+				"ccg/cre",
+				"resources\\views\\ccg\\create.blade.php"
+			],
+			[
+				"ccredita",
+				"app\\Http\\Controllers\\CreditApplicationsController.php"
+			],
+			[
+				"search.v",
+				"resources\\assets\\js\\components\\search.vue"
+			],
+			[
+				"capma",
+				"app\\Lib\\CAPManager.php"
+			],
+			[
+				"profiles/in",
+				"resources\\views\\profiles\\index.blade.php"
+			],
+			[
+				"profiles/",
+				"resources\\views\\profiles\\businesses.blade.php"
+			],
+			[
+				"profiles/per",
+				"resources\\views\\profiles\\persons.blade.php"
+			],
+			[
+				"cap/cr",
+				"resources\\views\\cap\\create_business.blade.php"
+			],
+			[
+				"busines",
+				"resources\\views\\cap\\form_business.blade.php"
+			],
+			[
+				"create.bl",
+				"resources\\views\\cap\\create.blade.php"
+			],
+			[
+				"formbu",
+				"resources\\views\\cap\\form_business.blade.php"
+			],
+			[
+				"dash",
+				"resources\\views\\dashboard.blade.php"
+			],
+			[
+				"add_st",
+				"resources\\views\\cap\\add_stakeholder.blade.php"
+			],
+			[
+				"append",
+				"app\\Lib\\AppendixManager.php"
+			],
+			[
+				"creditapp",
+				"app\\Http\\Controllers\\CreditApplicationsController.php"
+			],
+			[
+				"third",
+				"resources\\views\\dashboard\\third_row.blade.php"
+			],
+			[
+				"dashboard",
+				"resources\\views\\dashboard.blade.php"
+			],
+			[
+				"sec",
+				"resources\\views\\dashboard\\second_row.blade.php"
+			],
+			[
+				"gurantr",
+				"database\\seeds\\GuarantortypeSeeder.php"
+			],
+			[
+				"cap/fo",
+				"resources\\views\\cap\\form.blade.php"
+			],
+			[
+				"profiles/cre",
+				"resources\\views\\profiles\\create.blade.php"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"regions",
+				"resources\\views\\configuration\\regionsform.blade.php"
+			],
+			[
+				"add",
+				"resources\\views\\cap\\add_guarantor.blade.php"
+			],
+			[
+				"secon",
+				"resources\\views\\dashboard\\second_row.blade.php"
+			],
+			[
+				"add_col",
+				"resources\\views\\cap\\add_collateral.blade.php"
+			],
+			[
+				"duplic",
+				"resources\\views\\cap\\duplicate_warning.blade.php"
+			],
+			[
+				"ccg/for",
+				"resources\\views\\ccg\\form.blade.php"
+			],
+			[
+				"loan",
+				"resources\\views\\cap\\loanform.blade.php"
+			],
+			[
+				"add_",
+				"resources\\views\\cap\\add_guarantor.blade.php"
+			],
+			[
+				"ca",
+				"app\\Http\\Controllers\\CreditApplicationsController.php"
+			],
+			[
+				"scripts.",
+				"resources\\views\\layouts\\scripts.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\Orient\\orient.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,51 @@
+.products
+  position: relative
+  padding-bottom: 4rem
+  padding-top: 3rem
+  max-width: 800px
+  margin: 15px auto
+
+  +mobile
+    padding-bottom: 2rem
+    padding-top: 1rem
+
+
+.products .product
+  margin: 0 2rem
+  background: $white
+  border-radius: 5px
+  padding: 3rem
+  a
+    color: $primary !important
+    &:hover
+      color: darken($primary, .9) !important
+      text-decoration: underline
+
+  +mobile
+    padding: 1rem
+    margin: 0
+
+  .title
+    font-family: $family-title !important
+    color: $grey-slate
+    font-weight: bolder
+
+#products .button
+  font-size: 1rem
+  position: absolute
+  background-color: transparent
+  color: transparentize($black, .7)
+  top: 47%
+  border: none
+  &:hover
+    color: transparentize($black, .5)
+  i.fa
+    font-size: 3rem
+  &.prev
+    left: 4rem
+    +mobile
+      left: -.8rem
+  &.next
+    right: 4rem
+    +mobile
+      right: -.8rem
